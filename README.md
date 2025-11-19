@@ -133,7 +133,7 @@ Prediction Samples
  --- 
 ![](https://github.com/MohammadHMazarei/brain-tumor-resnet50/blob/main/outputs/prediction_samples.png)
 
-
+</div>
 
 ## 🔬 Preprocessing Pipeline
 
